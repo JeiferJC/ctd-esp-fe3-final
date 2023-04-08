@@ -1,0 +1,6 @@
+
+export const TYPES = {
+    AGREGAR_FAVS: "AGREGAR_FAVS",
+    ELIMINAR_FAVS: "ELIMINAR_FAVS",
+}
+
